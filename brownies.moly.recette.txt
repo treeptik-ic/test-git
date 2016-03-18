@@ -1,6 +1,6 @@
 420g de beurre
 225g de chocolat
-225g de sucre
+500g de sucre
 150g de farine
 6 oeufs
 
@@ -9,3 +9,7 @@ Mélanger sucre et oeuf;
 Ajouter chocolat et beurre fondu;
 Ajouter farine;
 Cuire 150°C 65min.
+
+
+
+
